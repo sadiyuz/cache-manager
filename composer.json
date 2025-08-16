@@ -14,11 +14,6 @@
     "require": {
         "php": ">=8.2"
     },
-    "autoload": {
-        "psr-4": {
-            "SadiyUz\\CacheManager\\": "src/"
-        }
-    },
     "config": {
         "sort-packages": true
     },
