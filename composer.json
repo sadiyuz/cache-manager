@@ -1,0 +1,13 @@
+{
+    "name": "sadiyuz/cache-manager",
+    "description": "A simple cache driver like Laravel Cache Facade",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SadiyUz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
