@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SadiyUz\\CacheManager": "src"
+            "SadiyUz\\CacheManager\\": "src/"
         }
     }
 }
