@@ -18,5 +18,14 @@
         "psr-4": {
             "SadiyUz\\CacheManager\\": "src/"
         }
-    }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sadiyuz/cache-manager"
+        }
+    ]
 }
