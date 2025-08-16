@@ -5,12 +5,18 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "SadiyUz"
+            "name": "SadiyUz",
+            "email": "meproseen@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SadiyUz\\CacheManager": "src"
+        }
     }
 }
